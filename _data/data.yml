@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://drive.google.com/file/d/1BYyH8bFWno6RKTumovmNB_leU7CZzqe4/view?usp=sharing
+    pdf: https://drive.google.com/file/d/1AclRQsqn-UivD6gJbFPpmuNjmaMCJ0V3/view?usp=sharing
 
     languages:
       title: Languajes
@@ -85,7 +85,7 @@ education:
 experiences:
     title: Experiencias
     info:
-      - role: Administrador de TI 
+      - role: Administrador de redes
         time: 2014 - 2018
         company: Rumbos S.A. de seguros
         details: |
