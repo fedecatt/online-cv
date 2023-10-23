@@ -33,7 +33,7 @@ sidebar:
       title: Languajes
       info:
         - idiom: Español
-          level: Native
+          level: Nativo
 
         - idiom: Ingles
           level: Intermedio
@@ -85,21 +85,13 @@ education:
 experiences:
     title: Experiencias
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Auxiliar de TI 
+        time: 2014 - 2018
+        company: Rumbos S.A. de seguros
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+            - Experiencia en gestión de redes: Configurar y mantener redes de computadoras, incluyendo la resolución de problemas de conexión y la implementación de medidas de seguridad.
+            - Gestión de copias de seguridad: Realizar copias de seguridad y recuperación de datos en caso de pérdida o corrupción de la información. 
+            - Análisis y solución de problemas: Realizar análisis de problemas y encontrar soluciones eficaces para resolverlos, así como documentar el proceso y los resultados obtenidos.
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
