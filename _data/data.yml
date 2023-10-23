@@ -160,45 +160,23 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
-    title: OSS Contributions
+    title:  Contribución Open Source Software
     intro: >
       You can list your open source software contributions in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
-      - title: Figma
-        link: "https://www.figma.com/"
-        tagline: "Figma es un editor de gráficos vectorial y una herramienta de generación de prototipos, principalmente basada en la web, con características off-line adicionales habilitadas por aplicaciones de escritorio en macOS y Windows."
+      - title: Kali Linux
+        link: "https://www.kali.org/"
+        tagline: "Kali Linux es una distribución basada en Debian GNU/Linux diseñada principalmente para la auditoría y seguridad informática en general."
 
-      - title: VS code
-        link: "https://code.visualstudio.com/"
-        tagline: "Visual Studio Code es un editor de código fuente desarrollado por Microsoft para Windows, Linux, macOS y Web. Incluye soporte para la depuración, control integrado de Git, resaltado de sintaxis, finalización inteligente de código, fragmentos y refactorización de código."
+      - title: Let's Encrypt SSL
+        link: "https://letsencrypt.org/"
+        tagline: "Let's Encrypt es una autoridad de certificación abierta, automatizada y gratuita presentada por Internet Security Research Group (ISRG), una organización sin fines de lucro."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Woocommerce
+        link: "https://woocommerce.com/"
+        tagline: "WooCommerce es un plugin de comercio electrónico de código abierto para WordPress​. Está diseñado para pequeños y grandes comerciantes en línea con WordPress."
 
 skills:
     title: Skills &amp; Proficiency
