@@ -139,9 +139,9 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Estación meteorológica WiFi con energía solar V2.0
+        link: "https://drive.google.com/file/d/1pHdMPcdJddurCjCyOX7kPkmoPF7Mfm1k/view?usp=sharing"
+        tagline: "Estación meteorológica basada en ESP8266 que funciona con energía solar, que puede funcionar durante años sin recibir energía de una fuente externa."
 
       - title: DevStudio
         link: "#"
@@ -160,11 +160,9 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
-    title:  Contribución Open Source Software
+    title:  Software Open Source
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
     contributions:
       - title: Kali Linux
         link: "https://www.kali.org/"
