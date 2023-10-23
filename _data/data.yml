@@ -118,7 +118,7 @@ certifications:
           credentialurl: https://drive.google.com/file/d/1wEsHAj-GLu0uXvCzSoZDYXpQRnSRmUvs/view
           credentialname: Google Activate
           details: |
-            Conviértete en un experto de marketing digital a un nivel básico con nuestro curso
+            Marketing digital a un nivel básico con nuestro curso
             acreditado por la agencia Interactive Advertising Bureau (IAB). Los 26 módulos que componen el curso 
             han sido creados por instructores de Google e incluyen numerosos ejercicios prácticos y 
             ejemplos reales que te ayudarán a conseguir excelentes resultados.
@@ -135,22 +135,20 @@ certifications:
 projects:
     title: Proyectos
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
     assignments:
       - title: Estación meteorológica WiFi con energía solar V2.0
         link: "https://drive.google.com/file/d/1pHdMPcdJddurCjCyOX7kPkmoPF7Mfm1k/view?usp=sharing"
         tagline: "Estación meteorológica basada en ESP8266 que funciona con energía solar, que puede funcionar durante años sin recibir energía de una fuente externa."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: www.flomez.com
+        link: "https://www.flomez.com/"
+        tagline: "Sitio web responsivo diseñado para ayudar a la empresa emergente a promocionar sus productos y servicios para atraer usuarios y clientes. inversores"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
+      - title: Diseño mínimalista de currículum vitae/CV online
+        link: "https://fedecatt.github.io/online-cv/"
+        tagline: "Currículum sencillo y responsivo con 6 temas de color y una configuración sencilla."
+        
       - title: Atom
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
