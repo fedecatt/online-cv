@@ -133,7 +133,7 @@ certifications:
             Generar Algoritmos Que Permitan Resolver Problemas En Python Mediante El Desarrollo De Programas, Identificando La Sintaxis Del Lenguaje En Las Aplicaciones Para La Optimizacion De Tarea Laborales.
 
 projects:
-    title: Projectos
+    title: Proyectos
     intro: >
       You can list your side projects in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -182,22 +182,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
+      - name: Wordpress
         level: 98%
 
       - name: HTML5 & CSS
+        level: 98%
+
+      - name: Linux
+        level: 98%
+
+      - name: SEO
         level: 95%
 
-      - name: Ruby on Rails
+      - name: GitHub Pages
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Python
         level: 60%
 
 footer: >
