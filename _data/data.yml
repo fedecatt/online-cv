@@ -60,7 +60,7 @@ career-profile:
       desde sitios web para marcas personales hasta sitios web de comercio electrónico; por eso, 
       estoy familiarizado con diferentes tipos de lenguajes de programación (HTML, Python, JavaScript y CSS), 
       creación de maquetas, diseño web, programación, sistemas integrados y experiencia de usuario. 
-      Recientemente, trabajé en FLOMEZ srl, donde creé 1 sitio web e-commerce y 2 aplicaciones móviles.
+      Recientemente, trabajé en FLOMEZ SRL, donde creé 1 sitio web e-commerce y 2 aplicaciones móviles.
 
 
 education:
@@ -85,76 +85,52 @@ education:
 experiences:
     title: Experiencias
     info:
-      - role: Auxiliar de TI 
+      - role: Administrador de TI 
         time: 2014 - 2018
         company: Rumbos S.A. de seguros
         details: |
             - Experiencia en gestión de redes: Configurar y mantener redes de computadoras, incluyendo la resolución de problemas de conexión y la implementación de medidas de seguridad.
             - Gestión de copias de seguridad: Realizar copias de seguridad y recuperación de datos en caso de pérdida o corrupción de la información. 
             - Análisis y solución de problemas: Realizar análisis de problemas y encontrar soluciones eficaces para resolverlos, así como documentar el proceso y los resultados obtenidos.
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Auxiliar de Microinformática 
+        time: 2004 - 2012
+        company: Tribunal Superior de Justicia Electoral
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            - Experiencia maravillosa en proporcionar soporte técnico a los usuarios por primera vez en la solución de problemas de hardware y software en computadoras y dispositivos móviles.
+            - Configuraciones y mantenimiento: Instalar y configurar sistemas operativos, programas y actualizaciones de seguridad, y llevar a cabo el mantenimiento preventivo de los equipos.
+      - role: Desarrollador Web
+        time: 2020 - 2022
+        company: Flomez SRL
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Desarrollo y mantengo el sitio web, también me encargo de la optimización, rendimiento y la usabilidad de los mismos.
+            - Analizo y reporto los resultados de la tienda en línea, incluyendo las ventas, el tráfico y la tasa de conversión.
+            - Diseño estrategias de marketing digital que incluyen SEO, publicidad en Whatsapp, redes sociales e email marketing.
+            - Me encargo de la gestión completa de la tienda en línea, incluyendo la selección de productos, la gestión de inventario y el procesamiento de pedidos.
 
 certifications:
-      title: Certifications
+      title: Certificaciones
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
+        - name: Marketing Digital
+          start: 2011
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          organization: Google
+          credentialid: 
+          credentialurl: https://drive.google.com/file/d/1wEsHAj-GLu0uXvCzSoZDYXpQRnSRmUvs/view
+          credentialname: Google Activate
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            Conviértete en un experto de marketing digital a un nivel básico con nuestro curso
+            acreditado por la agencia Interactive Advertising Bureau (IAB). Los 26 módulos que componen el curso 
+            han sido creados por instructores de Google e incluyen numerosos ejercicios prácticos y 
+            ejemplos reales que te ayudarán a conseguir excelentes resultados.
+        - name: Programación en Python
+          start: 2023
+          end: 
+          organization: Ministerio de Tecnologías de la Información y Comunicación
+          credentialid: 
+          credentialurl: https://drive.google.com/file/d/1wEsHAj-GLu0uXvCzSoZDYXpQRnSRmUvs/view
+          credentialname: Programacion en Python
+          details: |
+            Generar Algoritmos Que Permitan Resolver Problemas En Python Mediante El Desarrollo De Programas, Identificando La Sintaxis Del Lenguaje En Las Aplicaciones Para La Optimizacion De Tarea Laborales.
 
 projects:
     title: Projects
