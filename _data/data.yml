@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Federico Cattáneo
-    tagline: Desarrollo Web 
+    tagline: Desarrollador Web 
     avatar: fede.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -47,7 +47,7 @@ sidebar:
         - item: Rugby
           link:
 
-        - item: Hacking Etico 
+        - item: Hacking
           link:
 
         - item: Cocinar
@@ -56,37 +56,34 @@ sidebar:
 career-profile:
     title: Perfil de la Carrera
     summary: |
-      Desarrollador web con tres años de experiencia creando distintos tipos de web y aplicaciones móviles, desde sitios web para marcas personales hasta sitios web de comercio electrónico; por eso, estoy familiarizado con diferentes tipos de lenguajes de programación (HTML, Python, JavaScript y CSS), creación de maquetas, diseño web, programación, sistemas integrados y experiencia de usuario. Recientemente, trabajé en OXIGENT Technologies, donde creé más de 45 sitios web y 25 aplicaciones móviles.
+      Desarrollador web con cinco años de experiencia creando distintos tipos de web y aplicaciones móviles, 
+      desde sitios web para marcas personales hasta sitios web de comercio electrónico; por eso, 
+      estoy familiarizado con diferentes tipos de lenguajes de programación (HTML, Python, JavaScript y CSS), 
+      creación de maquetas, diseño web, programación, sistemas integrados y experiencia de usuario. 
+      Recientemente, trabajé en FLOMEZ srl, donde creé 1 sitio web e-commerce y 2 aplicaciones móviles.
 
 
 education:
-    title: Education
+    title: Educación
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Administración de Redes Cisco, CCNA
+        university: Universidad del Cono Sur de las Américas
+        time: 2009 - 2012
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          Es una de las certificaciones más importantes dentro de la industria de la Tecnología de 
+          la Información. Esta certificación representa el nivel asociado, orientada a habilidades 
+          prácticas en el diagnóstico y solución de problemas específicos de redes.
+
+      - degree: Web Development Expert, HTML and CSS Máster
+        university: Universidad Católica "Ntra. Sra. de la Asunción"
+        time: 2011 - 2013
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          HTML y CSS desde cero, sin conocimientos previos.
+            - Conocer la semántica del HTML
+            - Creación de Sitios Web estáticos con HTML y CSS3
 
 experiences:
-    title: Experiences
+    title: Experiencias
     info:
       - role: Lead Developer
         time: 2015 - Present
