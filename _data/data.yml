@@ -137,10 +137,7 @@ projects:
     intro: >
 
     assignments:
-      - title: Estación meteorológica WiFi con energía solar V2.0
-        link: "https://drive.google.com/file/d/1pHdMPcdJddurCjCyOX7kPkmoPF7Mfm1k/view?usp=sharing"
-        tagline: "Estación meteorológica basada en ESP8266 que funciona con energía solar, que puede funcionar durante años sin recibir energía de una fuente externa."
-
+      
       - title: www.flomez.com
         link: "https://www.flomez.com/"
         tagline: "Sitio web responsivo diseñado para ayudar a la empresa emergente a promocionar sus productos y servicios para atraer usuarios y clientes. inversores"
@@ -148,7 +145,7 @@ projects:
       - title: Diseño mínimalista de currículum vitae/CV online
         link: "https://fedecatt.github.io/online-cv/"
         tagline: "Currículum sencillo y responsivo con 6 temas de color y una configuración sencilla."
-        
+
       - title: Atom
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
@@ -156,6 +153,10 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+        - title: Estación meteorológica WiFi con energía solar V2.0
+        link: "https://drive.google.com/file/d/1pHdMPcdJddurCjCyOX7kPkmoPF7Mfm1k/view?usp=sharing"
+        tagline: "Estación meteorológica basada en ESP8266 que funciona con energía solar, que puede funcionar durante años sin recibir energía de una fuente externa."
 
 oss:
     title:  Software Open Source
@@ -190,10 +191,10 @@ skills:
       - name: SEO
         level: 95%
 
-      - name: GitHub Pages
+      - name: Python
         level: 85%
 
-      - name: Python
+      - name: GitHub Pages
         level: 60%
 
 footer: >
