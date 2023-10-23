@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Federico Cattáneo
-    tagline: Full Stack Developer
+    tagline: Desarrollo Web 
     avatar: fede.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -30,38 +30,35 @@ sidebar:
     pdf: https://drive.google.com/file/d/1BYyH8bFWno6RKTumovmNB_leU7CZzqe4/view?usp=sharing
 
     languages:
-      title: Languages
+      title: Languajes
       info:
         - idiom: Español
           level: Native
 
         - idiom: Ingles
-          level: Professional
-
-        - idiom: Portugues
           level: Intermedio
 
+        - idiom: Portugues
+          level: Básico
+
     interests:
-      title: Interests
+      title: Intereses
       info:
         - item: Rugby
           link:
 
-        - item: Snowboarding
+        - item: Hacking Etico 
           link:
 
         - item: Cocinar
           link:
 
 career-profile:
-    title: Career Profile
+    title: Perfil de la Carrera
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Desarrollador web con tres años de experiencia creando distintos tipos de web y aplicaciones móviles, desde sitios web para marcas personales hasta sitios web de comercio electrónico; por eso, estoy familiarizado con diferentes tipos de lenguajes de programación (HTML, Python, JavaScript y CSS), creación de maquetas, diseño web, programación, sistemas integrados y experiencia de usuario. Recientemente, trabajé en OXIGENT Technologies, donde creé más de 45 sitios web y 25 aplicaciones móviles.
+
+
 education:
     title: Education
     info:
