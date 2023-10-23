@@ -133,7 +133,7 @@ certifications:
             Generar Algoritmos Que Permitan Resolver Problemas En Python Mediante El Desarrollo De Programas, Identificando La Sintaxis Del Lenguaje En Las Aplicaciones Para La Optimizacion De Tarea Laborales.
 
 projects:
-    title: Projects
+    title: Projectos
     intro: >
       You can list your side projects in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -166,9 +166,9 @@ oss:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Figma
+        link: "https://www.figma.com/"
+        tagline: "Figma es un editor de gráficos vectorial y una herramienta de generación de prototipos, principalmente basada en la web, con características off-line adicionales habilitadas por aplicaciones de escritorio en macOS y Windows."
 
       - title: Atom
         link: "#"
