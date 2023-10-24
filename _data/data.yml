@@ -143,7 +143,7 @@ projects:
         link: "https://www.flomez.com/"
         tagline: "Sitio web responsivo diseñado para ayudar a la empresa emergente a promocionar sus productos y servicios para atraer usuarios, clientes e inversores"
 
-      - title: Diseño de currículum vitae/CV online
+      - title: Sitio web estático alojado en repositorio GitHub
         link: "https://fedecatt.github.io/online-cv/"
         tagline: "Currículum sencillo, minimalista y responsivo con 6 temas de color y una configuración sencilla."
 
