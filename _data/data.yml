@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Federico Cattáneo
-    tagline: Growth Hacker
+    tagline: Desarrollador Web
     avatar: fede.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -146,7 +146,7 @@ projects:
       
       - title: www.flomez.com
         link: "https://www.flomez.com/"
-        tagline: "Sitio web responsivo diseñado para ayudar a la empresa emergente a promocionar sus productos y servicios para atraer usuarios, clientes e inversores"
+        tagline: "Sitio web responsivo diseñado en Wordpress para ayudar a la empresa emergente a promocionar sus productos y servicios para atraer usuarios, clientes e inversores"
 
       - title: CV Builder
         link: "https://fedecatt.github.io/online-cv/"
@@ -160,9 +160,9 @@ projects:
         link: "https://www.facebook.com/nubelapy" 
         tagline: "Acelerar el crecimiento del negocio mediante la implementación de estrategias y técnicas creativas."
 
-      - title: Aplicación de inventario web y móvil
-        link: "https://www.facebook.com/nubelapy/videos/827735968655340" 
-        tagline: "Ayuda a los propietarios de empresas a hacer un seguimiento de su inventario, registrar las cantidades entrantes y salientes y tomar decisiones más informadas sobre su negocio"
+      - title: FreelancerDev
+        link: "https://jeromelachaud.com/freelancer-theme/" 
+        tagline: "Landing page de diseño plano minimalista + portafolio y Search Console Insights"
 
       - title: Estación meteorológica WiFi con energía solar V2.0
         link: "https://drive.google.com/file/d/1pHdMPcdJddurCjCyOX7kPkmoPF7Mfm1k/view?usp=sharing"
