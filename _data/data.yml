@@ -59,7 +59,7 @@ career-profile:
       Desarrollador web con cinco años de experiencia creando distintos tipos de web, 
       desde sitios web para marcas personales hasta sitios web de comercio electrónico; por eso, 
       estoy familiarizado con diferentes tipos de lenguajes de programación (HTML, Python, JavaScript y CSS), 
-      creación de maquetas, diseño web, programación, bots, sistemas integrados, SEO, marketing digital y experiencia de usuario. 
+      creación de maquetas, diseño web, programación, bots, sistemas integrados, SEO, email marketing y experiencia de usuario. 
       Recientemente, trabajé en FLOMEZ SRL, donde creé 1 sitio web de comercio electrónico y 2 aplicaciones móviles.
 
 
@@ -92,12 +92,14 @@ experiences:
             - Experiencia en gestión de redes: Configurar y mantener redes de computadoras, incluyendo la resolución de problemas de conexión y la implementación de medidas de seguridad.
             - Gestión de copias de seguridad: Realizar copias de seguridad y recuperación de datos en caso de pérdida o corrupción de la información. 
             - Análisis y solución de problemas: Realizar análisis de problemas y encontrar soluciones eficaces para resolverlos, así como documentar el proceso y los resultados obtenidos.
-      - role: Auxiliar de Microinformática 
-        time: 2004 - 2012
-        company: Tribunal Superior de Justicia Electoral
+      - role: Growth Hacker 
+        time: 2023 - Actual
+        company: Nube
         details: |
-            - Experiencia maravillosa en proporcionar soporte técnico a los usuarios por primera vez en la solución de problemas de hardware y software en computadoras y dispositivos móviles.
-            - Configuraciones y mantenimiento: Instalar y configurar sistemas operativos, programas y actualizaciones de seguridad, y llevar a cabo el mantenimiento preventivo de los equipos.
+            - Acelerar el crecimiento del negocio mediante la implementación de estrategias y técnicas creativas.
+            - Generar más tráfico a través de los resultados de búsquedas, las redes sociales y otros medios.
+            - Automatización de procesos con Bots y aplicaciones.
+            - Campañas de marketing por correo electrónico y Whatsapp que atraen tráfico.
       - role: Desarrollador Web
         time: 2020 - 2023
         company: Flomez SRL
@@ -156,7 +158,7 @@ projects:
         tagline: "Acelerar el crecimiento del negocio mediante la implementación de estrategias y técnicas creativas."
 
       - title: Aplicación de inventario web y móvil
-        link: "#" 
+        link: "https://www.facebook.com/nubelapy/videos/827735968655340" 
         tagline: "Ayuda a los propietarios de empresas a hacer un seguimiento de su inventario, registrar las cantidades entrantes y salientes y tomar decisiones más informadas sobre su negocio"
 
       - title: Estación meteorológica WiFi con energía solar V2.0
