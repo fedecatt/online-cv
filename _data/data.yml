@@ -145,7 +145,7 @@ projects:
 
       - title: Diseño de currículum vitae/CV online
         link: "https://fedecatt.github.io/online-cv/"
-        tagline: "Currículum sencillo, mínimalista y responsivo con 6 temas de color y una configuración sencilla."
+        tagline: "Currículum sencillo, minimalista y responsivo con 6 temas de color y una configuración sencilla."
 
       - title: IA de conversación realista con agentes virtuales
         link: "https://bot.dialogflow.com/ba776603-6cb7-4c68-a173-fc101fa7f844"
