@@ -131,7 +131,7 @@ certifications:
         - name: Programación en Python
           start: 2023
           end: 
-          organization: Ministerio de Tecnologías de la Información y Comunicación
+          organization: MITIC
           credentialid: 
           credentialurl: https://drive.google.com/file/d/1wEsHAj-GLu0uXvCzSoZDYXpQRnSRmUvs/view
           credentialname: Python 
