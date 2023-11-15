@@ -157,8 +157,8 @@ projects:
         link: "https://bot.dialogflow.com/ba776603-6cb7-4c68-a173-fc101fa7f844"
         tagline: "Dialogflow es una plataforma de comprensión del lenguaje natural que se utiliza para diseñar e integrar una interfaz de usuario conversacional en aplicaciones móviles, aplicaciones web, dispositivos, bots, sistemas de respuesta de voz interactiva y redes sociales."
 
-      - title: nube 
-        link: "https://www.facebook.com/nubelapy" 
+      - title: nube.io
+        link: "https://nubelapy.github.io/nube/" 
         tagline: "Acelerar el crecimiento del negocio mediante la implementación de estrategias y técnicas creativas."
 
       - title: FreelancerDev
