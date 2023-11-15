@@ -94,7 +94,7 @@ experiences:
             - Análisis y solución de problemas: Realizar análisis de problemas y encontrar soluciones eficaces para resolverlos, así como documentar el proceso y los resultados obtenidos.
       - role: Growth Hacker 
         time: Actual
-        company: nube
+        company: nube.io
         details: |
             - Acelerar el crecimiento del negocio mediante la implementación de estrategias y técnicas creativas.
             - Generar más tráfico a través de los resultados de búsquedas, las redes sociales y otros medios.
@@ -102,6 +102,7 @@ experiences:
             - Campañas de marketing por correo electrónico y Whatsapp que atraen tráfico.
             - Sitio web alojado en repositorio GitHub.
             - Google Search Console supervisar, mantener y solucionar los problemas de aparición del sitio web en los resultados de la Búsqueda de Google.
+            - https://nubelapy.github.io/nube/
       - role: Desarrollador Web
         time: 2020 - 2023
         company: Flomez SRL
