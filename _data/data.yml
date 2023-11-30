@@ -155,15 +155,20 @@ projects:
 
       - title: IA de conversación realista con agentes virtuales
         link: "https://bot.dialogflow.com/ba776603-6cb7-4c68-a173-fc101fa7f844"
-        tagline: "Dialogflow es una plataforma de comprensión del lenguaje natural que se utiliza para diseñar e integrar una interfaz de usuario conversacional en aplicaciones móviles, aplicaciones web, dispositivos, bots, sistemas de respuesta de voz interactiva y redes sociales."
+        tagline: "Plataforma de comprensión del lenguaje natural que se utiliza para diseñar e integrar una interfaz de usuario conversacional en aplicaciones móviles, aplicaciones web, dispositivos, bots, sistemas de respuesta de voz interactiva y redes sociales."
 
       - title: nube.io
         link: "https://nubelapy.github.io/nube/" 
-        tagline: "Acelerar el crecimiento del negocio mediante la implementación de estrategias y técnicas creativas."
+        tagline: "Acelerar el crecimiento del negocio mediante la implementación de estrategias y técnicas creativas. IA de conversación realista con agentes virtuales "
 
       - title: FreelancerDev
         link: "https://jeromelachaud.com/freelancer-theme/" 
         tagline: "Landing page de diseño plano minimalista + portafolio y Search Console Insights"
+
+      - title: Quimikall
+        link: "http://34.39.131.146/" 
+        tagline: "Desarrollar un sitio web e-commerce que sea atractivo y fácil de usar. Ayudar con analíticas del sitio para crear contenido. Crear contenido de marketing que sea relevante y atractivo para el público objetivo,
+        mejorar la visibilidad de la marca creando catálogos, flyers, banners, logos y etiquetas ." 
 
       - title: Estación meteorológica WiFi con energía solar V2.0
         link: "https://drive.google.com/file/d/1pHdMPcdJddurCjCyOX7kPkmoPF7Mfm1k/view?usp=sharing"
