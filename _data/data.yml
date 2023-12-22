@@ -60,7 +60,7 @@ career-profile:
       desde sitios web para marcas personales hasta sitios web de comercio electrónico; por eso, 
       estoy familiarizado con diferentes tipos de lenguajes de programación (HTML, Python, JavaScript y CSS), 
       creación de maquetas, diseño web, programación, bots, sistemas integrados, SEO, email marketing y experiencia de usuario. 
-      Recientemente, trabajé en FLOMEZ SRL, donde creé 1 sitio web de comercio electrónico y 2 aplicaciones móviles.
+      Recientemente, trabajé en FLOMEZ SRL, donde creé 1 sitio web de comercio electrónico con chatbot de preguntas frecuentes y 2 aplicaciones móviles.
 
 
 education:
@@ -92,17 +92,20 @@ experiences:
             - Experiencia en gestión de redes: Configurar y mantener redes de computadoras, incluyendo la resolución de problemas de conexión y la implementación de medidas de seguridad.
             - Gestión de copias de seguridad: Realizar copias de seguridad y recuperación de datos en caso de pérdida o corrupción de la información. 
             - Análisis y solución de problemas: Realizar análisis de problemas y encontrar soluciones eficaces para resolverlos, así como documentar el proceso y los resultados obtenidos.
+
       - role: Growth Hacker 
         time: Actual
         company: nube.io
         details: |
             - Acelerar el crecimiento del negocio mediante la implementación de estrategias y técnicas creativas.
             - Generar más tráfico a través de los resultados de búsquedas, las redes sociales y otros medios.
-            - Automatización de procesos con Bots y aplicaciones.
+            - Automatización de procesos con aplicaciones.
             - Campañas de marketing por correo electrónico y Whatsapp que atraen tráfico.
-            - Sitio web alojado en repositorio GitHub.
+            - Sitio web estático alojado en repositorio GitHub.
+            - ChatBot con IA de conversación realista en el sitio web
             - Google Search Console supervisar, mantener y solucionar los problemas de aparición del sitio web en los resultados de la Búsqueda de Google.
             - https://nubelapy.github.io/nube/
+
       - role: Desarrollador Web
         time: 2020 - 2023
         company: Flomez SRL
@@ -113,6 +116,7 @@ experiences:
             - Diseño de estrategias de marketing digital que incluyen SEO, publicidad en Whatsapp, redes sociales e email marketing.
             - Gestión completa de la tienda en línea, incluyendo la selección de productos, la gestión de inventario y el procesamiento de pedidos.
             - Google Search Console
+            - Instancia en la nube de Google Cloud
 
 certifications:
       title: Certificaciones
@@ -161,9 +165,9 @@ projects:
         link: "https://nubelapy.github.io/nube/" 
         tagline: "Acelerar el crecimiento del negocio mediante la implementación de estrategias y técnicas creativas. IA de conversación realista con agentes virtuales "
 
-      - title: FreelancerDev
-        link: "https://jeromelachaud.com/freelancer-theme/" 
-        tagline: "Landing page de diseño plano minimalista + portafolio y Search Console Insights"
+      - title: www.tecnotermos.com.py
+        link: "https://www.tecnotermos.com.py/" 
+        tagline: "Re-diseñar el sitio web que sea atractivo y fácil de usar. Analíticas del sitio para crear contenido. IA de conversación realista ( Bot ) de preguntas frecuentes en el sitio web. Supervisar, mantener y solucionar los problemas de aparición del sitio web en los resultados de la Búsqueda de Google. Llegar a las masas enviando campañas masivas por WhatsApp y correo electrónico con promociones, catálogos o contenido multimedia."
 
       - title: www.quimikall.com.py
         link: "https://www.quimikall.com.py/" 
@@ -198,19 +202,19 @@ skills:
       - name: Wordpress
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Cloud Computing
         level: 98%
 
       - name: Linux
         level: 98%
 
-      - name: SEO
+      - name: SEO Analitycs
         level: 95%
 
-      - name: Python
+      - name: Python HTML & CSS
         level: 85%
 
-      - name: GitHub Pages
+      - name: Git
         level: 60%
 
 footer: >
