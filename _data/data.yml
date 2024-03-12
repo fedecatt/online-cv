@@ -148,6 +148,10 @@ projects:
     intro: >
 
     assignments:
+    
+      - title: targetpharma.com.py
+        link: "https://targetpharma.com.py/" 
+        tagline: "Re-diseño del sitio web que sea moderno y atractivo para los usuarios"
       
       - title: www.flomez.com
         link: "https://www.flomez.com/"
@@ -158,7 +162,7 @@ projects:
         tagline: "Currículum vitae sencillo, minimalista y responsivo con 6 temas de color y una configuración sencilla alojado en repositorio GitHub."
 
       - title: IA de conversación realista con agentes virtuales
-        link: "https://bot.dialogflow.com/ba776603-6cb7-4c68-a173-fc101fa7f844"
+        link: "https://wa.me/595976202879"
         tagline: "Plataforma de comprensión del lenguaje natural que se utiliza para diseñar e integrar una interfaz de usuario conversacional en aplicaciones móviles, aplicaciones web, dispositivos, bots, sistemas de respuesta de voz interactiva y redes sociales."
 
       - title: nube.io
@@ -168,23 +172,18 @@ projects:
       - title: www.tecnotermos.com.py
         link: "https://www.tecnotermos.com.py/" 
         tagline: "Re-diseño del sitio web que sea atractivo y fácil de usar. Analíticas del sitio para crear contenido. IA de conversación realista ( Bot ) de preguntas frecuentes en el sitio web. Supervisar, mantener y solucionar los problemas de aparición del sitio web en los resultados de la Búsqueda de Google. Llegar a las masas enviando campañas masivas por WhatsApp y correo electrónico con promociones, catálogos o contenido multimedia."
-
-      - title: Isana Py
-        link: "https://isana.odoo.com/shop" 
-        tagline: "Sitio web e-commerce que atractivo y fácil de usar para emprendimiento familiar. Ayudar con analíticas del sitio para crear contenido. Crear contenido de marketing que sea relevante y atractivo para el público objetivo,
-        mejorar la visibilidad de la marca creando catálogos, flyers y banners. Aplicacion web y APP de contabilidad para el manejo de las finanzas"
-        
-      - title: APP para taller mecánico
-        link: "https://www.appsheet.com/start/ac5ef733-200f-482f-ad6f-759786dfd07f" 
-        tagline: "Automatización de procesos con la aplicacion para IOS, Android y Web que se adapta a las necesidades específicas de un taller mecánico."  
+  
+      - title: quimikall.com.py
+        link: "https://quimikall.com.py/" 
+        tagline: "Sitio web e-commerce para emprendimiento familiar. Mejorar la visibilidad de la marca creando etiquetas para los productos."  
 
       - title: www.unionfocus.com.py
         link: "https://www.unionfocus.com.py/" 
         tagline: "Re-diseño del sitio web que sea moderno, atractivo y fácil de usar. Analíticas del sitio para crear contenido. IA de conversación realista ( Bot ) de preguntas frecuentes en el sitio web. Supervisar, mantener y solucionar los problemas de aparición del sitio web en los resultados de la Búsqueda de Google. Llegar a las masas enviando campañas masivas por WhatsApp y correo electrónico con promociones, catálogos o contenido multimedia."
         
-      - title: targetpharma.com.py
-        link: "https://targetpharma.com.py/" 
-        tagline: "Re-diseño del sitio web que sea moderno y atractivo para los usuarios"
+      - title: Isana Py
+        link: "https://isana.odoo.com/shop" 
+        tagline: "Sitio web e-commerce que sea atractivo y fácil de usar. Ayudar con analíticas del sitio para crear contenido. Crear contenido de marketing que sea relevante y atractivo para el público objetivo, mejorar la visibilidad de la marca creando catálogos, flyers y banners. Aplicacion web y APP de contabilidad para el manejo de las finanzas"
 
       - title: Estación meteorológica WiFi con energía solar V2.0
         link: "https://drive.google.com/file/d/1pHdMPcdJddurCjCyOX7kPkmoPF7Mfm1k/view?usp=sharing"
